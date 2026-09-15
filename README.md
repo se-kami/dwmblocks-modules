@@ -1,3 +1,6 @@
+> This repository has been consolidated into [setup](https://github.com/se-kami/setup/tree/main/dwmblocks).
+> Continue there for the dwmblocks modules and future updates.
+
 # dwmblocks-modules
 
 modules for dwmblocks
